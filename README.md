@@ -51,32 +51,32 @@ You'll also find some tips and links to documentations that will help you comple
 ## 💭 Reflection and Self Assessment
 
 **I learned:** (repeat as needed)
-- .
+- I learned how to create visualization in python using different libraries.
 
 **I struggled with:** (repeat as needed)
-- .
+- Plotting histogram with different colors for two values
 
 **I need the instructor to help me with:** (repeat as needed)
-- .
+- n/a
 
 **How long did it take you to complete this assignment? and reflect on that**
-[ ] hours.
+2 hours.
 
 **How often did you have to check the solution to the problem? How do you feel about that?**
-
+- n/a
 
 **If I were to do this assignment again, I would:** (repeat as needed)
-- .
+- n/a
 
-**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get 20 out of 20.
 
 --------------------
 ## 📚 References and Citations
 **I used the following links, books, and other resources in my work:** (repeat as needed)
-- .
+- n/a
   
 **I received help from the following people:** (repeat as needed)
-- . 
+- Copilot to learn syntax to create histograms and scatter plots.
 
 ---
 ## Copyrights and License
